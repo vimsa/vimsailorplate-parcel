@@ -1,6 +1,6 @@
 # VIMSΛ Parcel Boilerplate ❤️
 
-Dont forget to give a start 😅
+Dont forget to give a star 🌟
 
 ## Setup
 
