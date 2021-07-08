@@ -1,0 +1,27 @@
+{
+  "name": "vimsa-parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build src/index.pug",
+    "start": "parcel serve src/index.pug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimsa/vimsa-parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vimsa/vimsa-parcel/issues"
+  },
+  "homepage": "https://github.com/vimsa/vimsa-parcel#readme",
+  "devDependencies": {
+    "include-media": "^1.4.10",
+    "pug": "^3.0.2",
+    "sass": "^1.35.2",
+    "sass-loader": "^12.1.0"
+  }
+}
